@@ -1,0 +1,15 @@
+body{
+	font-family: comic sans ms;
+	font-size: 18px;
+	color: #000000;
+	background-color: #cc33ff;
+	margin: 0px;
+	padding: 10px 20px 30px 40px;
+}
+h1, h2, h3{
+	color: #646464;
+	text-align: center;
+}
+.center{
+		text-align: center;
+}

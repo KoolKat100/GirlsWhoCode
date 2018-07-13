@@ -1,0 +1,26 @@
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Font+Name">
+body{
+	font-family: Lobster;
+	font-size: 18px;
+	color: #ffffff;
+	background-image: url("https://78.media.tumblr.com/7d36aac103ca671b6f69522ced82ecea/tumblr_p8vyrrEss51un8qsqo2_1280.png");
+	margin: 0px;
+	padding: 10px 20px 30px 40px;
+}
+h1, h2, h3{
+	color: #d64f22;
+	text-align: center;
+}
+
+a:link {
+    color: #db8d3f; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: #2bd6e5;
+    background-color: transparent;
+    text-decoration: none;
+}
